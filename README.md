@@ -2,7 +2,7 @@
 
 ## 1. App Overview and Objectives
 
-**App Name (Working Title):**  Let's call it "TalentWise AI" for now, but we can brainstorm better names later!
+**App Name (Working Title):**  Let's call it "Talent AI" for now, but we can brainstorm better names later!
 
 **Objective:** To develop a next-generation AI-powered talent finding software that significantly improves the efficiency, accuracy, and fairness of the recruitment process.  This software will go beyond traditional keyword-based resume screening to provide recruiters with deeper insights into candidate skills, experience, and foundational knowledge.
 
