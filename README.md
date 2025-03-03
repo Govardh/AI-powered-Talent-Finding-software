@@ -103,4 +103,5 @@
 *   **Proactive Talent Sourcing:**  Use AI to proactively identify and reach out to passive candidates based on skill gaps and market trends.
 *   **Culture Fit Assessment:**  Develop more sophisticated methods for assessing culture fit using AI.
 
----
+
+                    plannig ongoing for AI based Recruting Campaign
