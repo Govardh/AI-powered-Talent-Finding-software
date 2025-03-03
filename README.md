@@ -7,6 +7,7 @@
 **Objective:** To develop a next-generation AI-powered talent finding software that significantly improves the efficiency, accuracy, and fairness of the recruitment process.  This software will go beyond traditional keyword-based resume screening to provide recruiters with deeper insights into candidate skills, experience, and foundational knowledge.
 
 **Key Differentiation:**  Stand out from existing AI tools by:
+
     *   **Deep & Contextual Resume Analysis:**  Understanding the *meaning* behind projects, publications, and code repositories.
     *   **Syllabus Analysis:**  Assessing academic foundations by analyzing university syllabi to verify relevant coursework.
     *   **Holistic Candidate View:**  Potentially incorporating online presence and skills validation beyond just resumes.
